@@ -1,0 +1,13 @@
+.container,h1{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+}
+.city,h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 2px;
+    font-size: xx-large;
+}
